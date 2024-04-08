@@ -2,7 +2,7 @@
 import random
 
 highest = 10
-number = random.randrange(highest + 1)
+number = 0
 print(number)
 
 while number != highest:
